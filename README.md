@@ -1,7 +1,7 @@
 # tributoapp
 Back-end proyecto tributo app
 
-# <img src="src/docs/asciidoc/images/spring-framework.png" width="80" height="80"> Spring Framework
+# <img src="https://github.com/spring-projects/spring-framework/blob/master/src/docs/asciidoc/images/spring-framework.png" width="80" height="80"> Spring Framework
 
 This is the home of the Spring Framework: the foundation for all [Spring projects](https://spring.io/projects). Collectively the Spring Framework and the family of Spring projects is often referred to simply as "Spring". 
 
